@@ -1,3 +1,8 @@
 # LAB3 - Các mối đe dọa ATTT
 
-Bài thực hành LAB3 môn An toàn bảo mật hệ thống thông tin.
+HỌ TÊN: NGUYỄN LÊ NGỌC CHÂU
+MSSV: 1150070003
+LỚP: 11_TTMT
+LAB3: NHẬN DIỆN VÀ ỨNG PHÓ CÁC MỐI ĐE DỌA ĐẾN AN TOÀN THÔNG TIN
+PHIÊN BẢN MÔI TRƯỜNG THỰC HIỆN: WINDOWS 11
+
